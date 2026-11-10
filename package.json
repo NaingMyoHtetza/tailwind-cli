@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch\" \"live-server src\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.4",
+    "tailwindcss": "^4.3.4"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.6",
+    "daisyui": "^5.7.50",
+    "live-server": "^1.2.2"
+  }
+}
