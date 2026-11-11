@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "concurrently \"npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch\" \"live-server src\""
+    "dev": "concurrently \"npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch\" \"live-server src --open=home.html\""
   },
   "keywords": [],
   "author": "",

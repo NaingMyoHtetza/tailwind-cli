@@ -8,11 +8,26 @@
   <body>
     <div>
       <!-- nav -->
+      <div id="nav"></div>
 
       <!-- main -->
       <div class="text-xs tracking-wide">Main</div>
 
       <!-- footer -->
+      <div id="footer"></div>
     </div>
+
+    <script>
+      async function include(id, url) {
+        try {
+          const res = await fetch(url);
+          document.getElementById(id).innerHTML = await res.text();
+        } catch (err) {
+          console.error('Failed to load ' + url, err);
+        }
+      }
+      include('nav', './components/nav.html');
+      include('footer', './components/footer.html');
+    </script>
   </body>
 </html>
