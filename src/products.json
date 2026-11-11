@@ -1,0 +1,354 @@
+{
+  "A": [
+    {
+      "name": "A Product 1",
+      "image": "https://img.lazcdn.com/g/p/bb1f23c69ad6792801ee8ef9b0e594fc.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "A Product 2",
+      "image": "https://img.lazcdn.com/g/p/bb1f23c69ad6792801ee8ef9b0e594fc.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "A Product 3",
+      "image": "https://img.lazcdn.com/g/p/bb1f23c69ad6792801ee8ef9b0e594fc.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "A Product 4",
+      "image": "https://img.lazcdn.com/g/p/bb1f23c69ad6792801ee8ef9b0e594fc.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ],
+  "B": [
+    {
+      "name": "B Product 1",
+      "image": "https://img.lazcdn.com/g/p/4c23ad66c4d895a6dae0bc655615da77.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "B Product 2",
+      "image": "https://img.lazcdn.com/g/p/4c23ad66c4d895a6dae0bc655615da77.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "B Product 3",
+      "image": "https://img.lazcdn.com/g/p/4c23ad66c4d895a6dae0bc655615da77.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "B Product 4",
+      "image": "https://img.lazcdn.com/g/p/4c23ad66c4d895a6dae0bc655615da77.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ],
+  "C": [
+    {
+      "name": "C Product 1",
+      "image": "https://img.lazcdn.com/g/p/761d134d3ecc46958a715325a19dd163.png_170x170q80.png_.avif",
+      "price": 11000
+    },
+    {
+      "name": "C Product 2",
+      "image": "https://img.lazcdn.com/g/p/761d134d3ecc46958a715325a19dd163.png_170x170q80.png_.avif",
+      "price": 12000
+    },
+    {
+      "name": "C Product 3",
+      "image": "https://img.lazcdn.com/g/p/761d134d3ecc46958a715325a19dd163.png_170x170q80.png_.avif",
+      "price": 13000
+    },
+    {
+      "name": "C Product 4",
+      "image": "https://img.lazcdn.com/g/p/761d134d3ecc46958a715325a19dd163.png_170x170q80.png_.avif",
+      "price": 14000
+    }
+  ],
+  "D": [
+    {
+      "name": "D Product 1",
+      "image": "https://img.lazcdn.com/g/p/28b2a02ca4eb5518d43ec88c6744927e.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "D Product 2",
+      "image": "https://img.lazcdn.com/g/p/28b2a02ca4eb5518d43ec88c6744927e.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "D Product 3",
+      "image": "https://img.lazcdn.com/g/p/28b2a02ca4eb5518d43ec88c6744927e.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "D Product 4",
+      "image": "https://img.lazcdn.com/g/p/28b2a02ca4eb5518d43ec88c6744927e.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ],
+  "E": [
+    {
+      "name": "E Product 1",
+      "image": "https://img.lazcdn.com/g/p/95969db6cb4a156f6e26cddc6445228c.png_170x170q80.png_.avif",
+      "price": 11000
+    },
+    {
+      "name": "E Product 2",
+      "image": "https://img.lazcdn.com/g/p/95969db6cb4a156f6e26cddc6445228c.png_170x170q80.png_.avif",
+      "price": 12000
+    },
+    {
+      "name": "E Product 3",
+      "image": "https://img.lazcdn.com/g/p/95969db6cb4a156f6e26cddc6445228c.png_170x170q80.png_.avif",
+      "price": 13000
+    },
+    {
+      "name": "E Product 4",
+      "image": "https://img.lazcdn.com/g/p/95969db6cb4a156f6e26cddc6445228c.png_170x170q80.png_.avif",
+      "price": 14000
+    }
+  ],
+  "F": [
+    {
+      "name": "F Product 1",
+      "image": "https://img.lazcdn.com/g/p/b3a92312629f80ced4344baf913b0ec8.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "F Product 2",
+      "image": "https://img.lazcdn.com/g/p/b3a92312629f80ced4344baf913b0ec8.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "F Product 3",
+      "image": "https://img.lazcdn.com/g/p/b3a92312629f80ced4344baf913b0ec8.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "F Product 4",
+      "image": "https://img.lazcdn.com/g/p/b3a92312629f80ced4344baf913b0ec8.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ],
+  "G": [
+    {
+      "name": "G Product 1",
+      "image": "https://img.lazcdn.com/g/p/d9d46616023ead92bb8e6def49160056.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "G Product 2",
+      "image": "https://img.lazcdn.com/g/p/d9d46616023ead92bb8e6def49160056.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "G Product 3",
+      "image": "https://img.lazcdn.com/g/p/d9d46616023ead92bb8e6def49160056.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "G Product 4",
+      "image": "https://img.lazcdn.com/g/p/d9d46616023ead92bb8e6def49160056.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ],
+  "H": [
+    {
+      "name": "H Product 1",
+      "image": "https://img.lazcdn.com/g/p/ca888f6c0d0bfdb1d0d65824ce5c6cb0.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "H Product 2",
+      "image": "https://img.lazcdn.com/g/p/ca888f6c0d0bfdb1d0d65824ce5c6cb0.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "H Product 3",
+      "image": "https://img.lazcdn.com/g/p/ca888f6c0d0bfdb1d0d65824ce5c6cb0.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "H Product 4",
+      "image": "https://img.lazcdn.com/g/p/ca888f6c0d0bfdb1d0d65824ce5c6cb0.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ],
+  "I": [
+    {
+      "name": "I Product 1",
+      "image": "https://img.lazcdn.com/g/p/da5e7b67621e3f071fec99080fa15531.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "I Product 2",
+      "image": "https://img.lazcdn.com/g/p/da5e7b67621e3f071fec99080fa15531.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "I Product 3",
+      "image": "https://img.lazcdn.com/g/p/da5e7b67621e3f071fec99080fa15531.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "I Product 4",
+      "image": "https://img.lazcdn.com/g/p/da5e7b67621e3f071fec99080fa15531.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ],
+  "J": [
+    {
+      "name": "J Product 1",
+      "image": "https://img.lazcdn.com/g/p/4ffecfb8628fd1e114a481352b3fd8f5.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "J Product 2",
+      "image": "https://img.lazcdn.com/g/p/4ffecfb8628fd1e114a481352b3fd8f5.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "J Product 3",
+      "image": "https://img.lazcdn.com/g/p/4ffecfb8628fd1e114a481352b3fd8f5.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "J Product 4",
+      "image": "https://img.lazcdn.com/g/p/4ffecfb8628fd1e114a481352b3fd8f5.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ],
+  "K": [
+    {
+      "name": "K Product 1",
+      "image": "https://img.lazcdn.com/g/p/b987472aba207592c934ba954d44110e.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "K Product 2",
+      "image": "https://img.lazcdn.com/g/p/b987472aba207592c934ba954d44110e.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "K Product 3",
+      "image": "https://img.lazcdn.com/g/p/b987472aba207592c934ba954d44110e.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "K Product 4",
+      "image": "https://img.lazcdn.com/g/p/b987472aba207592c934ba954d44110e.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ],
+  "L": [
+    {
+      "name": "L Product 1",
+      "image": "https://img.lazcdn.com/g/p/6ecf9ff1f63149b71bfe1c2a5bec4a59.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "L Product 2",
+      "image": "https://img.lazcdn.com/g/p/6ecf9ff1f63149b71bfe1c2a5bec4a59.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "L Product 3",
+      "image": "https://img.lazcdn.com/g/p/6ecf9ff1f63149b71bfe1c2a5bec4a59.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "L Product 4",
+      "image": "https://img.lazcdn.com/g/p/6ecf9ff1f63149b71bfe1c2a5bec4a59.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ],
+  "M": [
+    {
+      "name": "M Product 1",
+      "image": "https://img.lazcdn.com/g/p/60c749dd4e03f05a796c561ea36dd56d.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "M Product 2",
+      "image": "https://img.lazcdn.com/g/p/60c749dd4e03f05a796c561ea36dd56d.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "M Product 3",
+      "image": "https://img.lazcdn.com/g/p/60c749dd4e03f05a796c561ea36dd56d.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "M Product 4",
+      "image": "https://img.lazcdn.com/g/p/60c749dd4e03f05a796c561ea36dd56d.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ],
+  "N": [
+    {
+      "name": "N Product 1",
+      "image": "https://img.lazcdn.com/g/p/6d0547e15576a889602e598b3a5ddb38.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "N Product 2",
+      "image": "https://img.lazcdn.com/g/p/6d0547e15576a889602e598b3a5ddb38.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "N Product 3",
+      "image": "https://img.lazcdn.com/g/p/6d0547e15576a889602e598b3a5ddb38.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "N Product 4",
+      "image": "https://img.lazcdn.com/g/p/6d0547e15576a889602e598b3a5ddb38.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ],
+  "O": [
+    {
+      "name": "O Product 1",
+      "image": "https://img.lazcdn.com/g/p/ae6ce73aec2f3bd8ddda4bacd0577003.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "O Product 2",
+      "image": "https://img.lazcdn.com/g/p/ae6ce73aec2f3bd8ddda4bacd0577003.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "O Product 3",
+      "image": "https://img.lazcdn.com/g/p/ae6ce73aec2f3bd8ddda4bacd0577003.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "O Product 4",
+      "image": "https://img.lazcdn.com/g/p/ae6ce73aec2f3bd8ddda4bacd0577003.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ],
+  "P": [
+    {
+      "name": "P Product 1",
+      "image": "https://img.lazcdn.com/g/p/f6524b67f4988626ccee6c0f27bb5fdd.jpg_170x170q80.jpg_.avif",
+      "price": 11000
+    },
+    {
+      "name": "P Product 2",
+      "image": "https://img.lazcdn.com/g/p/f6524b67f4988626ccee6c0f27bb5fdd.jpg_170x170q80.jpg_.avif",
+      "price": 12000
+    },
+    {
+      "name": "P Product 3",
+      "image": "https://img.lazcdn.com/g/p/f6524b67f4988626ccee6c0f27bb5fdd.jpg_170x170q80.jpg_.avif",
+      "price": 13000
+    },
+    {
+      "name": "P Product 4",
+      "image": "https://img.lazcdn.com/g/p/f6524b67f4988626ccee6c0f27bb5fdd.jpg_170x170q80.jpg_.avif",
+      "price": 14000
+    }
+  ]
+}

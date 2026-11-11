@@ -1,13 +1,18 @@
 <!doctype html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="./output.css" rel="stylesheet">
-</head>
-<body>
-  <h1 class="text-xs tracking-wide">
-    Product Page
-  </h1>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./output.css" rel="stylesheet" />
+    <title>Product</title>
+  </head>
+  <body>
+    <div class="mx-50">
+      <!-- Products are rendered here by product.js -->
+      <div id="product-list" class="grid grid-cols-4 gap-4"></div>
+    </div>
+
+    <!-- Load our JavaScript logic -->
+    <script src="./product.js"></script>
+  </body>
 </html>
